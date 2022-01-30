@@ -73,6 +73,8 @@ streamlit run main_web.py
 
 Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :)
 
+**If you found it useful, leave a ⭐ here!**
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
